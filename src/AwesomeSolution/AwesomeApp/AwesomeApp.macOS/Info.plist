@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleName</key>
-	<string>AwesomeApp.macOS</string>
+	<string>HackedApp.macOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.LancelotSoftware.AwesomeApp</string>
+	<string>com.LancelotSoftware.HackedApp</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
