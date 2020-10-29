@@ -5,7 +5,7 @@
 	<key>CFBundleName</key>
 	<string>AwesomeApp.macOS</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.companyname.AwesomeApp-macOS</string>
+	<string>com.LancelotSoftware.AwesomeApp</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -19,7 +19,7 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
-	<string>????</string>
+	<string></string>
 	<key>NSHumanReadableCopyright</key>
 	<string>${AuthorCopyright:HtmlEncode}</string>
 	<key>NSPrincipalClass</key>
