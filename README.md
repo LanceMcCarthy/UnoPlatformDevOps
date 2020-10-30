@@ -23,7 +23,7 @@ A project to demonstrate using CI/CD for Uno Platform projects. From build to st
 | Android  | ![Google Play beta](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/2/3) | ![Google Play Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/2/4) |
 | iOS      | ![Apple TestFlight](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/3/5) | ![App Store Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/3/6) |
 | MacOS    | `n/a` | `n/a` |
-| WASM     | `n/a` | `n/a` |
+| WASM     | ![IIS staging](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/4/7) | ![Azure App Service](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/4/8) |
 | WPF      | `n/a` | `n/a` |
 | GTK      | `n/a` | `n/a` |
 
