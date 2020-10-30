@@ -19,11 +19,11 @@ A project to demonstrate using CI/CD for Uno Platform projects. From build to st
 
 | Platform | Beta/TestFlight | Production |
 |----------|-------|-----------|
-| UWP      | ![Microsoft Store - Flight](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/1/1) | ![Microsoft Store - Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/1/2) |
-| Android  | ![Google Play beta](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/2/3) | ![Google Play Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/2/4) |
-| iOS      | ![Apple TestFlight](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/3/5) | ![App Store Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/3/6) |
+| UWP      | [![Microsoft Store - Flight](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/1/1)](https://dev.azure.com/lance/Uno%20Ops/_release?_a=releases&view=mine&definitionId=1) | [![Microsoft Store - Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/1/2)](https://dev.azure.com/lance/Uno%20Ops/_release?_a=releases&view=mine&definitionId=1) |
+| Android  | [![Google Play beta](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/2/3)](https://dev.azure.com/lance/Uno%20Ops/_release?_a=releases&view=mine&definitionId=2) |  [![Google Play Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/2/4)](https://dev.azure.com/lance/Uno%20Ops/_release?_a=releases&view=mine&definitionId=2) |
+| iOS      | [![Apple TestFlight](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/3/5)](https://dev.azure.com/lance/Uno%20Ops/_release?_a=releases&view=mine&definitionId=3) | [![App Store Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/3/6)](https://dev.azure.com/lance/Uno%20Ops/_release?_a=releases&view=mine&definitionId=3) |
 | MacOS    | `n/a` | `n/a` |
-| WASM     | ![IIS staging](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/4/7) | ![Azure App Service](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/4/8) |
+| WASM     | [![IIS staging](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/4/7)](https://dev.azure.com/lance/Uno%20Ops/_release?_a=releases&view=mine&definitionId=4) | [![Azure App Service](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/4/8)](https://dev.azure.com/lance/Uno%20Ops/_release?_a=releases&view=mine&definitionId=4) |
 | WPF      | `n/a` | `n/a` |
 | GTK      | `n/a` | `n/a` |
 
