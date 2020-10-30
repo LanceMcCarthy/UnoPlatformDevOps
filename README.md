@@ -17,11 +17,11 @@ A project to demonstrate using CI/CD for Uno Platform projects. From build to st
 
 ### Release Pipelines
 
-| Platform | Beta | Production |
+| Platform | Beta/TestFlight | Production |
 |----------|-------|-----------|
-| UWP      | `n/a` | `n/a` |
-| Android  | `n/a` | `n/a` |
-| iOS      | `n/a` | `n/a` |
+| UWP      | ![Microsoft Store - Flight](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/1/1) | ![Microsoft Store - Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/1/2) |
+| Android  | ![Google Play beta](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/2/3) | ![Google Play Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/2/4) |
+| iOS      | ![Apple TestFlight](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/3/5) | ![App Store Production](https://vsrm.dev.azure.com/lance/_apis/public/Release/badge/3ef55f14-06a9-4457-a69e-e52f945782d6/3/6) |
 | MacOS    | `n/a` | `n/a` |
 | WASM     | `n/a` | `n/a` |
 | WPF      | `n/a` | `n/a` |
